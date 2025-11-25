@@ -1,3 +1,11 @@
+#fondo-pagina{
+    background: black;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
 .post {
     max-width: 600px;
     width: 100%;
@@ -64,8 +72,4 @@
 
 .likes, .caption{
     margin: 10px 5px;
-}
-
-#fondo-pagina{
-    background: black;
 }
